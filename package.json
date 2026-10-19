@@ -1,0 +1,12 @@
+{
+  "name": "core-pipeline",
+  "version": "1.0.0",
+  "description": "CLI tool by @PumaArmfulPogo",
+  "bin": {
+    "core-pipeline": "./bin/cli.js"
+  },
+  "type": "module",
+  "author": "PumaArmfulPogo",
+  "license": "MIT",
+  "dependencies": {}
+}
